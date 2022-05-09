@@ -1,0 +1,4 @@
+# pip install math
+# pip pandas
+
+pandas~=1.3.4
